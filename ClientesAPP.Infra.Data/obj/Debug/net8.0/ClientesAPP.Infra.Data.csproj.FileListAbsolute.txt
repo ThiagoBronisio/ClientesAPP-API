@@ -1,0 +1,17 @@
+C:\ClientesAPP\ClientesAPP.Infra.Data\bin\Debug\net8.0\ClientesAPP.Infra.Data.deps.json
+C:\ClientesAPP\ClientesAPP.Infra.Data\bin\Debug\net8.0\ClientesAPP.Infra.Data.runtimeconfig.json
+C:\ClientesAPP\ClientesAPP.Infra.Data\bin\Debug\net8.0\ClientesAPP.Infra.Data.dll
+C:\ClientesAPP\ClientesAPP.Infra.Data\bin\Debug\net8.0\ClientesAPP.Infra.Data.pdb
+C:\ClientesAPP\ClientesAPP.Infra.Data\bin\Debug\net8.0\ClientesApp.Domain.dll
+C:\ClientesAPP\ClientesAPP.Infra.Data\bin\Debug\net8.0\ClientesApp.Domain.pdb
+C:\ClientesAPP\ClientesAPP.Infra.Data\obj\Debug\net8.0\ClientesAPP.Infra.Data.csproj.AssemblyReference.cache
+C:\ClientesAPP\ClientesAPP.Infra.Data\obj\Debug\net8.0\ClientesAPP.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClientesAPP\ClientesAPP.Infra.Data\obj\Debug\net8.0\ClientesAPP.Infra.Data.AssemblyInfoInputs.cache
+C:\ClientesAPP\ClientesAPP.Infra.Data\obj\Debug\net8.0\ClientesAPP.Infra.Data.AssemblyInfo.cs
+C:\ClientesAPP\ClientesAPP.Infra.Data\obj\Debug\net8.0\ClientesAPP.Infra.Data.csproj.CoreCompileInputs.cache
+C:\ClientesAPP\ClientesAPP.Infra.Data\obj\Debug\net8.0\Clientes.CDA96B82.Up2Date
+C:\ClientesAPP\ClientesAPP.Infra.Data\obj\Debug\net8.0\ClientesAPP.Infra.Data.dll
+C:\ClientesAPP\ClientesAPP.Infra.Data\obj\Debug\net8.0\refint\ClientesAPP.Infra.Data.dll
+C:\ClientesAPP\ClientesAPP.Infra.Data\obj\Debug\net8.0\ClientesAPP.Infra.Data.pdb
+C:\ClientesAPP\ClientesAPP.Infra.Data\obj\Debug\net8.0\ClientesAPP.Infra.Data.genruntimeconfig.cache
+C:\ClientesAPP\ClientesAPP.Infra.Data\obj\Debug\net8.0\ref\ClientesAPP.Infra.Data.dll

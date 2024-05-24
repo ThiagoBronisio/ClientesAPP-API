@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ClientesAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D86B125C-799D-4810-9D70-0FFB430DB664}|ClientesAPP\\ClientesAPP.csproj|c:\\clientesapp\\clientesapp\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86B125C-799D-4810-9D70-0FFB430DB664}|ClientesAPP\\ClientesAPP.csproj|solutionrelative:clientesapp\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EEEA74-F5F4-4684-BC69-858A52DA639A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|c:\\clientesapp\\clientesapp.domain\\services\\clientedomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EEEA74-F5F4-4684-BC69-858A52DA639A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|solutionrelative:clientesapp.domain\\services\\clientedomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EEEA74-F5F4-4684-BC69-858A52DA639A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|c:\\clientesapp\\clientesapp.domain\\interfaces\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EEEA74-F5F4-4684-BC69-858A52DA639A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|solutionrelative:clientesapp.domain\\interfaces\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EEEA74-F5F4-4684-BC69-858A52DA639A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|c:\\clientesapp\\clientesapp.domain\\interfaces\\services\\iclientedomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EEEA74-F5F4-4684-BC69-858A52DA639A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|solutionrelative:clientesapp.domain\\interfaces\\services\\iclientedomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8FD95A-371F-41AE-B523-6A9184D848FB}|ClientesAPP.Infra.Data\\ClientesAPP.Infra.Data.csproj|c:\\clientesapp\\clientesapp.infra.data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8FD95A-371F-41AE-B523-6A9184D848FB}|ClientesAPP.Infra.Data\\ClientesAPP.Infra.Data.csproj|solutionrelative:clientesapp.infra.data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\ClientesAPP\\ClientesAPP.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "ClientesAPP.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\ClientesAPP\\ClientesAPP.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "ClientesAPP.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:07:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\ClientesAPP\\ClientesApp.Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "ToolTip": "C:\\ClientesAPP\\ClientesApp.Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "RelativeToolTip": "ClientesApp.Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:06:35.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteDomainService.cs",
+              "DocumentMoniker": "C:\\ClientesAPP\\ClientesApp.Domain\\Services\\ClienteDomainService.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Domain\\Services\\ClienteDomainService.cs",
+              "ToolTip": "C:\\ClientesAPP\\ClientesApp.Domain\\Services\\ClienteDomainService.cs",
+              "RelativeToolTip": "ClientesApp.Domain\\Services\\ClienteDomainService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:04:39.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\ClientesAPP\\ClientesAPP\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ClientesAPP\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\ClientesAPP\\ClientesAPP\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ClientesAPP\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:01:49.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClienteDomainService.cs",
+              "DocumentMoniker": "C:\\ClientesAPP\\ClientesApp.Domain\\Interfaces\\Services\\IClienteDomainService.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Domain\\Interfaces\\Services\\IClienteDomainService.cs",
+              "ToolTip": "C:\\ClientesAPP\\ClientesApp.Domain\\Interfaces\\Services\\IClienteDomainService.cs",
+              "RelativeToolTip": "ClientesApp.Domain\\Interfaces\\Services\\IClienteDomainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:01:46.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

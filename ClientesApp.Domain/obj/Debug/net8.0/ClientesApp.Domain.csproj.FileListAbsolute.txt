@@ -1,0 +1,11 @@
+C:\ClientesAPP\ClientesApp.Domain\bin\Debug\net8.0\ClientesApp.Domain.deps.json
+C:\ClientesAPP\ClientesApp.Domain\bin\Debug\net8.0\ClientesApp.Domain.dll
+C:\ClientesAPP\ClientesApp.Domain\bin\Debug\net8.0\ClientesApp.Domain.pdb
+C:\ClientesAPP\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClientesAPP\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.AssemblyInfoInputs.cache
+C:\ClientesAPP\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.AssemblyInfo.cs
+C:\ClientesAPP\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.csproj.CoreCompileInputs.cache
+C:\ClientesAPP\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.dll
+C:\ClientesAPP\ClientesApp.Domain\obj\Debug\net8.0\refint\ClientesApp.Domain.dll
+C:\ClientesAPP\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.pdb
+C:\ClientesAPP\ClientesApp.Domain\obj\Debug\net8.0\ref\ClientesApp.Domain.dll
